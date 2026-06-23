@@ -16,6 +16,7 @@ data/raw/
 data/processed/
 data/sample_docs/
 outputs/
+graphify-out/
 
 # IDE
 .vscode/
